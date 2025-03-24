@@ -1,0 +1,8 @@
+opencv-python
+numpy
+pandas 
+dlib 
+face-recognition 
+deepface 
+schedule 
+openpyxl
